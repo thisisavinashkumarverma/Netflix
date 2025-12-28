@@ -1,0 +1,40 @@
+.top{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    .sign-in{
+        color: white;
+        margin-left: 860px;
+    }
+}
+.logo{
+    
+        img{
+        height: 85px;
+    width: 180px;
+    /* border: solid 1px white; */
+    margin-left: 124px;
+    }
+    
+}
+.sign-in{
+    
+    .lang{
+        gap: 10px;
+        margin-right: 25px ;
+        height: 37px;
+        background-color: transparent;
+        
+        border: white solid 0.5px;
+        
+    }
+    button{
+        height: 40px;
+        width: 100px;
+        background-color: red;
+        color: white;
+        border-radius: 10px;
+        
+        
+    }
+}
